@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MasGrande
+comment0.text=\n\ Clase\ de\ prueba\ de\ JUnit\n\ \n\ @author\ \ Alberto\ Lopez\n\ @version\ 14/01/2019\n
+comment1.params=a
+comment1.target=int\ max(int[])
+comment1.text=\n\ Funcion\ que\ devuelve\ el\ valor\ maximo\ de\ un\ array\ de\ enteros\n\ \n\ @param\ \ a\ \ \ Array\ de\ entero\n\ @return\ \ \ \ \ valor\ maximo\ \n
+numComments=2

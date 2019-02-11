@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PruebaScannerURL
+comment1.params=direccion
+comment1.target=void\ contar(java.lang.String)
+comment2.params=
+comment2.target=PruebaScannerURL()
+numComments=3

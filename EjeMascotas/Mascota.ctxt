@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Mascota
+comment0.text=\n\ Abstract\ class\ Mascota\ -\ write\ a\ description\ of\ the\ class\ here\n\ \n\ @author\:\ \n\ Date\:\ \n
+comment1.params=nombre\ vsexo
+comment1.target=Mascota(java.lang.String,\ Sexo)
+comment2.params=nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ decirAlgo()
+comment5.params=
+comment5.target=void\ gustosAlimentarios()
+comment6.params=otra
+comment6.target=Mascota\ cruzar(Mascota)
+numComments=7

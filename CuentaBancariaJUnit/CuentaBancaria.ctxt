@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CuentaBancaria
+comment1.params=
+comment1.target=int\ getSaldo()
+comment10.params=importe\ destino
+comment10.target=void\ transferencia(int,\ CuentaBancaria)
+comment11.params=
+comment11.target=java.lang.String\ consultarEstado()
+comment2.params=
+comment2.target=int\ getsaldo()
+comment3.params=
+comment3.target=int\ getnumMovimientos()
+comment4.params=saldo
+comment4.target=CuentaBancaria(int)
+comment5.params=
+comment5.target=CuentaBancaria()
+comment6.params=cantidad
+comment6.target=void\ ingreso(int)
+comment7.params=cantidad
+comment7.target=void\ abono(int)
+comment8.params=
+comment8.target=void\ anotarGastos()
+comment9.params=interes
+comment9.target=void\ anotarIntereses(int)
+numComments=12
