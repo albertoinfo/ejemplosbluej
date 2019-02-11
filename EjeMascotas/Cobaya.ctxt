@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Cobaya
-comment0.text=\n\ Write\ a\ description\ of\ class\ Cobaya\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment0.text=\n\ Write\ a\ description\ of\ class\ Cobaya\ here.\n\ \n\ @author\ (Alberto\ Lopez)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
 comment1.params=nombre\ vsexo
 comment1.target=Cobaya(java.lang.String,\ Sexo)
 comment2.params=

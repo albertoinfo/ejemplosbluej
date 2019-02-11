@@ -2,7 +2,7 @@
 /**
  * Write a description of class Cobaya here.
  * 
- * @author (your name) 
+ * @author (Alberto Lopez) 
  * @version (a version number or a date)
  */
 public class Cobaya extends Mascota
