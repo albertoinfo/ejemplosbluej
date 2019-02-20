@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestAlmacenGEnteros
+comment1.params=argv
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ mostrarMenu()
+comment3.params=opcion\ parAlmacen
+comment3.target=void\ procesarOpcion(int,\ AlmacenG)
+numComments=4

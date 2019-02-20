@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=AlmacenG
+comment0.text=\n\ Implementaci\u00F3n\ de\ un\ clase\ Generica\ \n
+comment1.params=
+comment1.target=AlmacenG()
+comment10.params=
+comment10.target=boolean\ estaLleno()
+comment11.params=
+comment11.target=void\ empaquetar()
+comment2.params=tama\u00F1o
+comment2.target=AlmacenG(int)
+comment3.params=
+comment3.target=void\ init()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=int\ numPosicionesLibres()
+comment6.params=
+comment6.target=int\ numPosicionesOcupadas()
+comment7.params=num
+comment7.target=boolean\ estaValor(java.lang.Object)
+comment8.params=num
+comment8.target=boolean\ ponValor(java.lang.Object)
+comment9.params=num
+comment9.target=boolean\ sacarValor(java.lang.Object)
+numComments=12
